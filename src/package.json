@@ -1,0 +1,15 @@
+{
+  "name": "isaac-webhook-frontend",
+  "version": "1.0.0",
+  "description": "Isaac Webhook Frontend",
+  "main": "index.js",
+  "author": "Ferimer",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "uuid": "^3.2.1"
+  }
+}

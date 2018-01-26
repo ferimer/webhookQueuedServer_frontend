@@ -1,0 +1,11 @@
+{
+  "messageQueue": {
+    "protocol": "amqp",
+    "hostname": "localhost",
+    "port": 5672,
+    "username": "user",
+    "password": "pass",
+    "vhost": "/vhost",
+    "heartbeat": 120
+  }
+}
